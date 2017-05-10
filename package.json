@@ -1,12 +1,12 @@
 {
-    "name": "matrix",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "share": "npm version patch && git push && npm publish"
-    },
-    "author": "Michael McLaughlin <michael@gospecless.com> (https://gospecless.com)",
-    "license": "MIT"
+  "name": "matrix",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "share": "npm version patch && git push && npm publish"
+  },
+  "author": "Michael McLaughlin <michael@gospecless.com> (https://gospecless.com)",
+  "license": "MIT"
 }
